@@ -4,6 +4,7 @@ A tiny revision of all the concepts learned in machine learning in a practical w
 
 Concepts learned:-
 
+implemeting OOPs concepts
 Basic calculus
 creating neuron , MLP ,
 Backpropagation , etc ....
